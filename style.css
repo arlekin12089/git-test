@@ -7,17 +7,11 @@ p {
 	background: yellow;
 }
 
-<<<<<<< HEAD
 li {
 	background: turquoise;
-=======
-.dog {
-	width: 300px;
-	height: 300px;
 }
 
 .dog img {
 	max-width: 100%;
 	width: 100%;
->>>>>>> c7a2fb02ebfba3a430231664350e0ca894d0dd5e
 }
