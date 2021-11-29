@@ -16,3 +16,9 @@ p {
 	max-width: 100%;
 	width: 100%;
 }
+
+.rubrik {
+  font-size: 36px;
+  background: whitesmoke;
+  color: black;
+}
